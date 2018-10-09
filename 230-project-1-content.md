@@ -7,6 +7,9 @@ ___
 
 # Nightmare Runner
 
+![The Nightmare Runner Logo][logo]
+
+You don't remember going to bed, but what other explanation is there? Between the technicolor sky, the broken landscape, and whatever that... *thing* behind you is, there's no way any of this was real. All you know is that whatever the swirly black thing touches just stops... being. Its gone. Pinching yourself awake didn't help and you really don't want to find out what exactly it did with everything it snagged, so your only choice is to run. Let's just hope you can evade it long enough to get a good night's sleep.
 
 ___
 
@@ -78,6 +81,13 @@ In order to get a higher score in the game, the player will have to learn how to
 
 ## Screenshots
 
+### Menu Markup
+
+![The main menu for Nightmare Runner][menu]
+
+### Gameplay Markup
+
+![A gameplay markup for Nightmare Runner][gameplay]
 
 ## About the Dev
 
@@ -106,4 +116,11 @@ ___
 
 # Nightmare Runner
 
+![Sad blooper is sorry][blooper]
+
 The game's not out yet, please check back later.
+
+[blooper]: https://github.com/jonmura/IGME-230/blob/master/Blooper.png
+[gameplay]: https://github.com/jonmura/IGME-230/blob/master/Gameplay.png
+[menu]: https://github.com/jonmura/IGME-230/blob/master/Menu.png
+[logo]: https://github.com/jonmura/IGME-230/blob/master/NightmareRunnerLogoSmall.png
