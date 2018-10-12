@@ -98,17 +98,24 @@ ___
 # Documentation
 ___
 
-# Lorem Ipsum
+# Documentation
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan dui tellus, a cursus turpis finibus vel. Quisque gravida scelerisque tellus, sit amet dictum velit bibendum ac. Fusce ullamcorper ullamcorper risus vitae pretium. Cras ac metus commodo, hendrerit ipsum sit amet, bibendum ante. Ut fringilla facilisis sem, at sodales turpis molestie nec. Sed condimentum malesuada orci a iaculis. In varius semper turpis, non accumsan dolor accumsan sit amet. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer at facilisis ligula.
+## Process
 
-Nulla pellentesque sapien et ex dictum, eu accumsan lacus tincidunt. Aliquam quis eleifend nisi. Ut orci dui, facilisis interdum elementum ac, mattis vel lorem. Suspendisse dictum est at ultrices volutpat. Curabitur ornare, odio a iaculis egestas, quam mauris suscipit felis, a vulputate leo neque at urna. Praesent orci erat, lacinia quis scelerisque ac, tincidunt eu metus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nunc cursus massa augue. Duis vitae ante iaculis, accumsan urna molestie, mattis est. Sed quis scelerisque magna, id dapibus enim. Aliquam massa massa, posuere sit amet magna eget, tristique eleifend metus. Pellentesque vel vulputate magna. Donec nec tristique ligula, a congue odio. Phasellus eleifend posuere metus, viverra molestie arcu. Nunc aliquam ullamcorper ante, a gravida mi semper at. Vivamus a scelerisque lacus.
+In designing the site, I had two things in mind, simplicity, and acessibility. For simplicity, I wanted to prevent the site from having a very busy look. As such, I limited the number of colors in the palette, and by using relatively little style rules in the css, but using rules that would maxamize the appearance of the page. For accessibility, I wanted the user to be able to navigate and read the site without any issues. I did this by using relatively large text, and working on a navbar that was easy to understand, with the page you're currently on highlighted so that there's no way the user could feel lost.
 
-Sed risus nulla, sodales quis eros scelerisque, auctor dictum ligula. Vestibulum id rhoncus ipsum. Suspendisse vitae felis sed elit imperdiet congue quis a sapien. Fusce sit amet accumsan mauris, et accumsan ligula. Nunc interdum mauris ipsum, sit amet accumsan dolor maximus sed. Pellentesque dictum lorem turpis, quis vulputate nulla convallis a. Ut tempus massa vitae consequat porta. Nullam sed porta nibh, non luctus libero. Donec sed erat placerat, rutrum ligula tristique, ornare augue. Vivamus pharetra quam ac luctus pretium. Pellentesque sodales congue quam, vitae maximus mi dignissim eget. In ac interdum erat.
+The biggest challenge in designing the site was getting the footer to go to the bottom of the page, and then figuring out how to get the rest of the page to come down. In the end, I was able to get the footer to move after finding a tutorial, but the main section of the pages looked weird going all the way to the bottom, so I decided to remove the code and add some padding so that there was some space between the main div and the footer.
 
-Etiam id leo at elit rutrum aliquet. Proin ac nisl ut metus ultricies pretium nec eu nisl. Vivamus maximus augue magna, in pretium velit condimentum sit amet. Sed nisl justo, fringilla ut enim in, eleifend tempus magna. In venenatis erat sed purus hendrerit, nec tempus lacus suscipit. Aenean a mollis odio, a iaculis erat. Sed a malesuada nunc. Vestibulum diam nulla, mattis eget hendrerit nec, imperdiet eget ligula. Duis id velit tincidunt, pulvinar nibh et, gravida nisl. Vivamus in hendrerit nulla. Quisque quis mi eget nisi porta ullamcorper sit amet et lorem. Nulla ullamcorper urna ac congue condimentum.
+## Resources
 
-Curabitur tempus gravida sodales. Fusce consequat tellus dui, id posuere leo gravida eu. Nulla ullamcorper est at enim lobortis dapibus. Curabitur vehicula ex vitae efficitur sollicitudin. Quisque ultricies mi vitae tellus faucibus, ut cursus velit lacinia. Praesent iaculis orci at bibendum ultrices. Duis ante lectus, efficitur eu massa vel, iaculis congue sem. Curabitur vitae neque interdum nunc pretium iaculis id interdum mi. Phasellus egestas molestie elit, ut porta risus porttitor eget. Sed nec velit tincidunt, rhoncus elit ac, sagittis augue. Aenean in faucibus nunc.
+All images were made by me.
+
+Tutorial for the nav bar:
+http://css.maxdesign.com.au/listamatic/horizontal03.htm
+
+Tutorial for the footer:
+https://chrisbracco.com/css-sticky-footer-effect/
+
 ___
 
 # Project
